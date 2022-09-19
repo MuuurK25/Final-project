@@ -1,0 +1,15 @@
+C:\Users\Murk\Desktop\Итоговый проект\Решение\bin\Debug\net6.0\Решение.exe
+C:\Users\Murk\Desktop\Итоговый проект\Решение\bin\Debug\net6.0\Решение.deps.json
+C:\Users\Murk\Desktop\Итоговый проект\Решение\bin\Debug\net6.0\Решение.runtimeconfig.json
+C:\Users\Murk\Desktop\Итоговый проект\Решение\bin\Debug\net6.0\Решение.dll
+C:\Users\Murk\Desktop\Итоговый проект\Решение\bin\Debug\net6.0\Решение.pdb
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\Решение.csproj.AssemblyReference.cache
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\Решение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\Решение.AssemblyInfoInputs.cache
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\Решение.AssemblyInfo.cs
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\Решение.csproj.CoreCompileInputs.cache
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\Решение.dll
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\refint\Решение.dll
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\Решение.pdb
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\Решение.genruntimeconfig.cache
+C:\Users\Murk\Desktop\Итоговый проект\Решение\obj\Debug\net6.0\ref\Решение.dll
